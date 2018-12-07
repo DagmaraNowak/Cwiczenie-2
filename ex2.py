@@ -6,3 +6,5 @@ message.format('Dagmara','Kuba')
 print(message)
 message1 = "Kuba ma {0:d} pieskow"
 print(message1.format(6))
+message4 = "12345"
+print("message4 to:",type(message4))
